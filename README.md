@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp   
 </p>
 
-<h3 align="center">Tools</h3>
+<!-- <h3 align="center">Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp 
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
 </p>
 
-<br>
+<br> -->
 <br>
 <br>
 
